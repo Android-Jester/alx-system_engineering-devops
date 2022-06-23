@@ -1,0 +1,2 @@
+# Shell Permissions
+1. 0-iam_betty: 
